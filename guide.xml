@@ -4,6 +4,70 @@
     <display-name lang="pt">UFC</display-name>
     <url>http://www.netcombo.com.br</url>
   </channel>
+  <channel id="Fox Sports HD">
+    <display-name lang="pt">Fox Sports HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Fox Sports 2 HD">
+    <display-name lang="pt">Fox Sports 2 HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="EI Maxx HD">
+    <display-name lang="pt">EI Maxx HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="ESPN HD">
+    <display-name lang="pt">ESPN HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="ESPN Brasil HD">
+    <display-name lang="pt">ESPN Brasil HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Premiere 2">
+    <display-name lang="pt">Premiere 2</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Premiere 3">
+    <display-name lang="pt">Premiere 3</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Premiere 4">
+    <display-name lang="pt">Premiere 4</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Premiere 5">
+    <display-name lang="pt">Premiere 5</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Premiere 6">
+    <display-name lang="pt">Premiere 6</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Premiere 7">
+    <display-name lang="pt">Premiere 7</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="SporTV 3 HD">
+    <display-name lang="pt">SporTV 3 HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="SporTV 2 HD">
+    <display-name lang="pt">SporTV 2 HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="SporTV HD">
+    <display-name lang="pt">SporTV HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Amc">
+    <display-name lang="es">Amc</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="AXN">
+    <display-name lang="pt">AXN</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
   <programme start="20180413000000 -0300" stop="20180413014500 -0300" channel="UFC">
     <title lang="pt">The Ultimate Fighter 18: Team Rousey x Team Tate</title>
     <desc lang="pt">Pela primeira vez na história, as mulheres vão competir no Ultimate Fighter. Dezesseis mulheres vão lutar ao lado de dezesseis homens pelo seu lugar na casa(n)</desc>
@@ -259,6 +323,2983 @@
     </rating>
     <star-rating>
       <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413003000 -0300" stop="20180413021500 -0300" channel="Fox Sports HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Rosário Central (ARG) x São Paulo</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413021500 -0300" stop="20180413024500 -0300" channel="Fox Sports HD">
+    <title lang="pt">La Liga Show</title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413024500 -0300" stop="20180413031500 -0300" channel="Fox Sports HD">
+    <title lang="pt">Bundesliga Weekly</title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413031500 -0300" stop="20180413034500 -0300" channel="Fox Sports HD">
+    <title lang="pt">Fórmula E: Street Racers</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413034500 -0300" stop="20180413053000 -0300" channel="Fox Sports HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">CSKA Moscou x Arsenal</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413053000 -0300" stop="20180413060000 -0300" channel="Fox Sports HD">
+    <title lang="pt">Fórmula E: Street Racers</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413060000 -0300" stop="20180413063000 -0300" channel="Fox Sports HD">
+    <title lang="pt">La Liga Show</title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413063000 -0300" stop="20180413070000 -0300" channel="Fox Sports HD">
+    <title lang="pt">Bundesliga Weekly</title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413070000 -0300" stop="20180413073000 -0300" channel="Fox Sports HD">
+    <title lang="pt">Central Fox</title>
+    <desc lang="pt">José Ilan, Marina Ferrari, Edu Elias, Karine Alves, Daniela Boaventura e Felipe Motta comandam o programa que traz diariamente os gols dos melhores campeonatos, reportagens especiais(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413073000 -0300" stop="20180413080000 -0300" channel="Fox Sports HD">
+    <title lang="pt">Total Italian Football</title>
+    <desc lang="pt">O Total Italian Football traz um resumo de tudo o que aconteceu na última rodada com os gols, melhores lances e as últimas notícias das equipes do Campeonato Italiano(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413080000 -0300" stop="20180413081000 -0300" channel="Fox Sports HD">
+    <title lang="pt">Filler</title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413081000 -0300" stop="20180413090000 -0300" channel="Fox Sports HD">
+    <title lang="pt">WWE RAW</title>
+    <desc lang="pt">Não perca as estrelas do WWE em ação! Um supershow com golpes espetaculares e lutas emocionantes, com muita provocação entre os astros da luta livre(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413090000 -0300" stop="20180413120000 -0300" channel="Fox Sports HD">
+    <title lang="pt">Bom Dia Fox</title>
+    <sub-title lang="pt">Vivo</sub-title>
+    <desc lang="pt">Luciano Calheiros e Livia Nepomuceno trazem com leveza as primeiras notícias do dia sempre com um comentarista do canal, tal como Nadine Bastos, Fábio Sormani ou Osvaldo Pascoal(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413120000 -0300" stop="20180413124500 -0300" channel="Fox Sports HD">
+    <title lang="pt">Central Fox</title>
+    <sub-title lang="pt">Vivo</sub-title>
+    <desc lang="pt">José Ilan, Marina Ferrari, Edu Elias, Karine Alves, Daniela Boaventura e Felipe Motta comandam o programa que traz diariamente os gols dos melhores campeonatos, reportagens especiais(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413124500 -0300" stop="20180413153000 -0300" channel="Fox Sports HD">
+    <title lang="pt">Fox Sports Rádio</title>
+    <sub-title lang="pt">Vivo</sub-title>
+    <desc lang="pt">Bom humor, opinião eentrevistas exclusivas são as marcas do “Fox Sports Rádio”. Benjamin Back, Fábio Sormani, Osvaldo Pascoal, Flávio Gomes e Mauricio Borges, o Mano, debatem sobre tudo o que acontece no mundo dos esportes(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413153000 -0300" stop="20180413173000 -0300" channel="Fox Sports HD">
+    <title lang="pt">Boa Tarde Fox</title>
+    <sub-title lang="pt">Vivo</sub-title>
+    <desc lang="pt">Nivaldo Prieto e Helena Calil comandam o “Boa Tarde Fox”, que conta também com a opinião de Gustavo Ribeirão. Repercutindo ao vivo as principais notícias do dia, entrevistas exclusivas e análises(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413173000 -0300" stop="20180413200000 -0300" channel="Fox Sports HD">
+    <title lang="pt">Expediente Futebol</title>
+    <sub-title lang="pt">Vivo</sub-title>
+    <desc lang="pt">O nosso  ´happy hour ´do futebol é comandado pelo apresentador João Guilherme. Todos os destaques da rodada com muito foco, detalhes e discussões aprofundadas(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413200000 -0300" stop="20180413210000 -0300" channel="Fox Sports HD">
+    <title lang="pt">Central Fox</title>
+    <sub-title lang="pt">Vivo</sub-title>
+    <desc lang="pt">José Ilan, Marina Ferrari, Edu Elias, Karine Alves, Daniela Boaventura e Felipe Motta comandam o programa que traz diariamente os gols dos melhores campeonatos, reportagens especiais(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413210000 -0300" stop="20180413220000 -0300" channel="Fox Sports HD">
+    <title lang="pt">Raio Fox</title>
+    <desc lang="pt">Um dos maiores analistas de futebol do Brasil, Paulo Vinícius Coelho (PVC) estáao lado de Rodrigo Buenoe Gustavo Villani no Raio Fox(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413220000 -0300" stop="20180414000000 -0300" channel="Fox Sports HD">
+    <title lang="pt">Bellator 197: Chandler x Girtz</title>
+    <sub-title lang="pt">Vivo</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413011500 -0300" stop="20180413014500 -0300" channel="Fox Sports 2 HD">
+    <title lang="pt">La Liga Show</title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413014500 -0300" stop="20180413021500 -0300" channel="Fox Sports 2 HD">
+    <title lang="pt">Bundesliga Weekly</title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413021500 -0300" stop="20180413024500 -0300" channel="Fox Sports 2 HD">
+    <title lang="pt">Programa da Nascar</title>
+    <desc lang="pt">A Nascar é a principal modalidade no automobilismo dos EUA e só aqui no Fox Sports você acompanha as três divisões nacionais, a principal Sprint Cup Series, a Nationwide Series e a Camping World Truck Series(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413024500 -0300" stop="20180413031500 -0300" channel="Fox Sports 2 HD">
+    <title lang="pt">Fórmula E: Street Racers</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413031500 -0300" stop="20180413033000 -0300" channel="Fox Sports 2 HD">
+    <title lang="pt">Filler</title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413033000 -0300" stop="20180413051500 -0300" channel="Fox Sports 2 HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Palmeiras x Boca Juniors (ARG)</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413051500 -0300" stop="20180413070000 -0300" channel="Fox Sports 2 HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Olympique de Marseille x RB Leipzig</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413070000 -0300" stop="20180413075000 -0300" channel="Fox Sports 2 HD">
+    <title lang="pt">WWE Main Event</title>
+    <desc lang="pt">O WWE é a principal organização de Pro Wrestling no mundo e reúne as maiores estrelas da modalidade em fantásticos combates de tirar o fôlego(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413075000 -0300" stop="20180413082000 -0300" channel="Fox Sports 2 HD">
+    <title lang="pt">Central Fox</title>
+    <desc lang="pt">José Ilan, Marina Ferrari, Edu Elias, Karine Alves, Daniela Boaventura e Felipe Motta comandam o programa que traz diariamente os gols dos melhores campeonatos, reportagens especiais(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413082000 -0300" stop="20180413100500 -0300" channel="Fox Sports 2 HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Palmeiras x Boca Juniors</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413100500 -0300" stop="20180413103500 -0300" channel="Fox Sports 2 HD">
+    <title lang="pt">WRC</title>
+    <sub-title lang="pt">França</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413103500 -0300" stop="20180413122000 -0300" channel="Fox Sports 2 HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Olympique de Marseille x RB Leipzig</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413122000 -0300" stop="20180413140500 -0300" channel="Fox Sports 2 HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Audax Italiano x Botafogo</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413140500 -0300" stop="20180413155000 -0300" channel="Fox Sports 2 HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">CSKA Moscou x Arsenal</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413155000 -0300" stop="20180413175500 -0300" channel="Fox Sports 2 HD">
+    <title lang="pt">Girona x Betis</title>
+    <sub-title lang="pt">Vivo</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413175500 -0300" stop="20180413181500 -0300" channel="Fox Sports 2 HD">
+    <title lang="pt">Fox Workout</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413181500 -0300" stop="20180413184500 -0300" channel="Fox Sports 2 HD">
+    <title lang="pt">Total Italian Football</title>
+    <desc lang="pt">O Total Italian Football traz um resumo de tudo o que aconteceu na última rodada com os gols, melhores lances e as últimas notícias das equipes do Campeonato Italiano(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413184500 -0300" stop="20180413201500 -0300" channel="Fox Sports 2 HD">
+    <title lang="pt">WWE Smackdown</title>
+    <desc lang="pt">O WWE é a principal organização de Pro Wrestling no mundo e reúne as maiores estrelas da modalidade em fantásticos combates de tirar o fôlego(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413201500 -0300" stop="20180413210500 -0300" channel="Fox Sports 2 HD">
+    <title lang="pt">WWE RAW</title>
+    <desc lang="pt">Não perca as estrelas do WWE em ação! Um supershow com golpes espetaculares e lutas emocionantes, com muita provocação entre os astros da luta livre(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413210500 -0300" stop="20180413211500 -0300" channel="Fox Sports 2 HD">
+    <title lang="pt">Filler</title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413211500 -0300" stop="20180413214500 -0300" channel="Fox Sports 2 HD">
+    <title lang="pt">WRC</title>
+    <sub-title lang="pt">França</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413214500 -0300" stop="20180413221500 -0300" channel="Fox Sports 2 HD">
+    <title lang="pt">WRC</title>
+    <sub-title lang="pt">França</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413221500 -0300" stop="20180413224500 -0300" channel="Fox Sports 2 HD">
+    <title lang="pt">WRC</title>
+    <sub-title lang="pt">França</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413224500 -0300" stop="20180414003000 -0300" channel="Fox Sports 2 HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Girona x Betis</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413010000 -0300" stop="20180413020000 -0300" channel="ESPN HD">
+    <title lang="pt">Sportscenter: 3ª Edição</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo. ‘SportsCenter” está sempre em cima do lance, contando tudo com uma dose de humor(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413020000 -0300" stop="20180413040000 -0300" channel="ESPN HD">
+    <title lang="pt">Salzburg x Lazio</title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413040000 -0300" stop="20180413060000 -0300" channel="ESPN HD">
+    <title lang="pt">Boxe: Francisco Vargas x Rod Salka</title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413060000 -0300" stop="20180413070000 -0300" channel="ESPN HD">
+    <title lang="pt">Sportscenter: 3ª Edição</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo. ‘SportsCenter” está sempre em cima do lance, contando tudo com uma dose de humor(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413070000 -0300" stop="20180413080000 -0300" channel="ESPN HD">
+    <title lang="pt">Sportscenter: 3ª Edição</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo. ‘SportsCenter” está sempre em cima do lance, contando tudo com uma dose de humor(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413080000 -0300" stop="20180413090000 -0300" channel="ESPN HD">
+    <title lang="pt">Sportscenter: 3ª Edição</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo. ‘SportsCenter” está sempre em cima do lance, contando tudo com uma dose de humor(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413090000 -0300" stop="20180413113000 -0300" channel="ESPN HD">
+    <title lang="pt">NHL Playoffs</title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413113000 -0300" stop="20180413133000 -0300" channel="ESPN HD">
+    <title lang="pt">Sporting x Atlético de Madrid</title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413133000 -0300" stop="20180413143000 -0300" channel="ESPN HD">
+    <title lang="pt">Sportscenter: 1ª Edição</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo. ‘SportsCenter” está sempre em cima do lance, contando tudo com uma dose de humor(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413143000 -0300" stop="20180413145500 -0300" channel="ESPN HD">
+    <title lang="pt">Multiplayer</title>
+    <desc lang="pt">Gameplays, tutoriais, dicas e dribles de FIFA, PES, NBA2k e Madden você encontra no Multiplayer(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413145500 -0300" stop="20180413152000 -0300" channel="ESPN HD">
+    <title lang="pt">Prévia do Campeonato Alemão</title>
+    <desc lang="pt">A Prévia do Campeonato Alemão passa a limpo os confrontos da rodada do Campeonato Alemão e traz as novidades, as prováveis escalações e entrevistas exclusivas com as estrelas da competição(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413152000 -0300" stop="20180413173000 -0300" channel="ESPN HD">
+    <title lang="pt">Wolfsburg x Augsburg</title>
+    <sub-title lang="pt">Vivo</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413173000 -0300" stop="20180413183000 -0300" channel="ESPN HD">
+    <title lang="pt">Destaques da UEFA Europa League</title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413183000 -0300" stop="20180413190000 -0300" channel="ESPN HD">
+    <title lang="pt">Credencial ESPN: Celso Unzelte</title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413190000 -0300" stop="20180413193000 -0300" channel="ESPN HD">
+    <title lang="pt">F1: The Inside Line</title>
+    <desc lang="pt">Seja bem-vindo ao mundo da principal categoria do automobilismo mundial. Acompanhe os bastidores, as principais notícias e o debate sobre as principais questões que envolvem o badalado e milionário circo da Fórmula 1(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413193000 -0300" stop="20180413200000 -0300" channel="ESPN HD">
+    <title lang="pt">NBA Action</title>
+    <desc lang="pt">As estrelas da NBA desfilam com os melhores lances, jogadas, enterradas e arremessos. Confira também a classificação das conferências do Leste e Oeste, além das 10 melhores jogadas da semana(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413200000 -0300" stop="20180413210000 -0300" channel="ESPN HD">
+    <title lang="pt">Espn League</title>
+    <sub-title lang="pt">Vivo</sub-title>
+    <desc lang="pt">Um mosaico do que acontece no esporte em todo o mundo. Os fatos mais importantes, gols, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada, opinião transparente, sem abrir mão do bom humor(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413210000 -0300" stop="20180413230000 -0300" channel="ESPN HD">
+    <title lang="pt">MLS: Philadelphia Union x Orlando City</title>
+    <sub-title lang="pt">Vivo</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413230000 -0300" stop="20180414000000 -0300" channel="ESPN HD">
+    <title lang="pt">Espn League</title>
+    <desc lang="pt">Um mosaico do que acontece no esporte em todo o mundo. Os fatos mais importantes, gols, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada, opinião transparente, sem abrir mão do bom humor(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413003000 -0300" stop="20180413024500 -0300" channel="ESPN Brasil HD">
+    <title lang="pt">FIFA Filmes: Coreia/japão 2002</title>
+    <sub-title lang="pt">Seven Games From Glory</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413024500 -0300" stop="20180413031500 -0300" channel="ESPN Brasil HD">
+    <title lang="pt">Prévia do Campeonato Alemão</title>
+    <desc lang="pt">A Prévia do Campeonato Alemão passa a limpo os confrontos da rodada do Campeonato Alemão e traz as novidades, as prováveis escalações e entrevistas exclusivas com as estrelas da competição(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413031500 -0300" stop="20180413041500 -0300" channel="ESPN Brasil HD">
+    <title lang="pt">Sportscenter: 3ª Edição</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo. ‘SportsCenter” está sempre em cima do lance, contando tudo com uma dose de humor(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413041500 -0300" stop="20180413054500 -0300" channel="ESPN Brasil HD">
+    <title lang="pt">Bola da Vez: Raí</title>
+    <desc lang="pt">A cada semana, Dan Stulbach entrevista uma importante personalidade do esporte, que também terá de encarar as melhores e mais instigantes perguntas da bancada de jornalistas da ESPN(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413054500 -0300" stop="20180413073000 -0300" channel="ESPN Brasil HD">
+    <title lang="pt">Sporting x Atlético de Madrid</title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413073000 -0300" stop="20180413090000 -0300" channel="ESPN Brasil HD">
+    <title lang="pt">Resenha ESPN</title>
+    <desc lang="pt">Domingo é dia de resenha! No comando do programa, André Plihal convoca quem mais entende do riscado: os craques da ESPN, Alex e Sorin, além de convidados especiais. Todo domingo, às 22h(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413090000 -0300" stop="20180413100000 -0300" channel="ESPN Brasil HD">
+    <title lang="pt">ESPN AGORA</title>
+    <sub-title lang="pt">Vivo</sub-title>
+    <desc lang="pt">O melhor pacote de futebol está nos canais ESPN. Acompanhe durante toda a temporada jogos amistosos entre grandes times do mundo e também o encontro entre seleções de diversos países(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413100000 -0300" stop="20180413115500 -0300" channel="ESPN Brasil HD">
+    <title lang="pt">Bate-Bola Bom Dia</title>
+    <sub-title lang="pt">Vivo</sub-title>
+    <desc lang="pt">Gols da rodada, classificação, notícias, comentários de nossos craques, entrevistas exclusivas, cartolagem, dança dos treinadores, a compra e venda de jogadores e interatividade com o fã de esporte(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413115500 -0300" stop="20180413125500 -0300" channel="ESPN Brasil HD">
+    <title lang="pt">Sportscenter: 1ª Edição</title>
+    <sub-title lang="pt">Vivo</sub-title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo. ‘SportsCenter” está sempre em cima do lance, contando tudo com uma dose de humor(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413125500 -0300" stop="20180413154000 -0300" channel="ESPN Brasil HD">
+    <title lang="pt">Bate-Bola Debate</title>
+    <sub-title lang="pt">Vivo</sub-title>
+    <desc lang="pt">Gols da rodada, classificação, notícias, comentários de nossos craques, entrevistas exclusivas, cartolagem, dança dos treinadores, a compra e venda de jogadores e interatividade com o fã de esporte(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413154000 -0300" stop="20180413174000 -0300" channel="ESPN Brasil HD">
+    <title lang="pt">Aston Villa x Leeds United</title>
+    <sub-title lang="pt">Vivo</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413174000 -0300" stop="20180413181000 -0300" channel="ESPN Brasil HD">
+    <title lang="pt">Futebol No Mundo</title>
+    <sub-title lang="pt">Vivo</sub-title>
+    <desc lang="pt">O programa trata exclusivamente do futebol internacional. Entrevistas exclusivas, reportagens especiais, e, é claro, muitos gols(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413181000 -0300" stop="20180413200000 -0300" channel="ESPN Brasil HD">
+    <title lang="pt">Bate-Bola Na Veia</title>
+    <sub-title lang="pt">Vivo</sub-title>
+    <desc lang="pt">Gols da rodada, classificação, notícias, comentários de nossos craques, entrevistas exclusivas, cartolagem, dança dos treinadores, a compra e venda de jogadores e interatividade com o fã de esporte(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413200000 -0300" stop="20180413210000 -0300" channel="ESPN Brasil HD">
+    <title lang="pt">Sportscenter: 2ª Edição</title>
+    <sub-title lang="pt">Vivo</sub-title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo. ‘SportsCenter” está sempre em cima do lance, contando tudo com uma dose de humor(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413210000 -0300" stop="20180413230000 -0300" channel="ESPN Brasil HD">
+    <title lang="pt">Linha de Passe: Mesa Redonda</title>
+    <sub-title lang="pt">Vivo</sub-title>
+    <desc lang="pt">Os craques dos canais ESPN analisam o que aconteceu de melhor e pior ao redor do planeta bola: os lances mais polêmicos, a gangorra do sobe-desce dos campeonatos nacionais e internacionais(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413230000 -0300" stop="20180414000000 -0300" channel="ESPN Brasil HD">
+    <title lang="pt">Sportscenter: 3ª Edição</title>
+    <sub-title lang="pt">Vivo</sub-title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo. ‘SportsCenter” está sempre em cima do lance, contando tudo com uma dose de humor(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413000000 -0300" stop="20180413100000 -0300" channel="Premiere 2">
+    <title lang="pt">Venda Premiere 2</title>
+    <desc lang="pt">A maior cobertura dos campeonatos Brasileiro e Estadual com jogos em HD em até 08 canais para assistir a jogos ao vivo e exclusivos(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413100000 -0300" stop="20180413120000 -0300" channel="Premiere 2">
+    <title lang="pt">Venda Premiere 2</title>
+    <desc lang="pt">A maior cobertura dos campeonatos Brasileiro e Estadual com jogos em HD em até 08 canais para assistir a jogos ao vivo e exclusivos(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413120000 -0300" stop="20180413140000 -0300" channel="Premiere 2">
+    <title lang="pt">Venda Premiere 2</title>
+    <desc lang="pt">A maior cobertura dos campeonatos Brasileiro e Estadual com jogos em HD em até 08 canais para assistir a jogos ao vivo e exclusivos(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413140000 -0300" stop="20180413160000 -0300" channel="Premiere 2">
+    <title lang="pt">Venda Premiere 2</title>
+    <desc lang="pt">A maior cobertura dos campeonatos Brasileiro e Estadual com jogos em HD em até 08 canais para assistir a jogos ao vivo e exclusivos(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413160000 -0300" stop="20180413180000 -0300" channel="Premiere 2">
+    <title lang="pt">Venda Premiere 2</title>
+    <desc lang="pt">A maior cobertura dos campeonatos Brasileiro e Estadual com jogos em HD em até 08 canais para assistir a jogos ao vivo e exclusivos(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413180000 -0300" stop="20180413183000 -0300" channel="Premiere 2">
+    <title lang="pt">Venda Premiere 2</title>
+    <desc lang="pt">A maior cobertura dos campeonatos Brasileiro e Estadual com jogos em HD em até 08 canais para assistir a jogos ao vivo e exclusivos(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413183000 -0300" stop="20180413190000 -0300" channel="Premiere 2">
+    <title lang="pt">Venda Premiere 2</title>
+    <desc lang="pt">A maior cobertura dos campeonatos Brasileiro e Estadual com jogos em HD em até 08 canais para assistir a jogos ao vivo e exclusivos(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413190000 -0300" stop="20180413210000 -0300" channel="Premiere 2">
+    <title lang="pt">Venda Premiere 2</title>
+    <desc lang="pt">A maior cobertura dos campeonatos Brasileiro e Estadual com jogos em HD em até 08 canais para assistir a jogos ao vivo e exclusivos(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413210000 -0300" stop="20180413223000 -0300" channel="Premiere 2">
+    <title lang="pt">Venda Premiere 2</title>
+    <desc lang="pt">A maior cobertura dos campeonatos Brasileiro e Estadual com jogos em HD em até 08 canais para assistir a jogos ao vivo e exclusivos(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413223000 -0300" stop="20180414000000 -0300" channel="Premiere 2">
+    <title lang="pt">Venda Premiere 2</title>
+    <desc lang="pt">A maior cobertura dos campeonatos Brasileiro e Estadual com jogos em HD em até 08 canais para assistir a jogos ao vivo e exclusivos(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413000000 -0300" stop="20180413020000 -0300" channel="Premiere 3">
+    <title lang="pt">Venda Premiere</title>
+    <desc lang="pt">A maior cobertura dos campeonatos Brasileiro e Estadual com jogos em HD em até 08 canais para assistir a jogos ao vivo e exclusivos(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413020000 -0300" stop="20180413040000 -0300" channel="Premiere 3">
+    <title lang="pt">Venda Premiere</title>
+    <desc lang="pt">A maior cobertura dos campeonatos Brasileiro e Estadual com jogos em HD em até 08 canais para assistir a jogos ao vivo e exclusivos(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413040000 -0300" stop="20180413060000 -0300" channel="Premiere 3">
+    <title lang="pt">Venda Premiere</title>
+    <desc lang="pt">A maior cobertura dos campeonatos Brasileiro e Estadual com jogos em HD em até 08 canais para assistir a jogos ao vivo e exclusivos(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413060000 -0300" stop="20180413080000 -0300" channel="Premiere 3">
+    <title lang="pt">Venda Premiere</title>
+    <desc lang="pt">A maior cobertura dos campeonatos Brasileiro e Estadual com jogos em HD em até 08 canais para assistir a jogos ao vivo e exclusivos(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413080000 -0300" stop="20180413100000 -0300" channel="Premiere 3">
+    <title lang="pt">Venda Premiere</title>
+    <desc lang="pt">A maior cobertura dos campeonatos Brasileiro e Estadual com jogos em HD em até 08 canais para assistir a jogos ao vivo e exclusivos(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413100000 -0300" stop="20180413120000 -0300" channel="Premiere 3">
+    <title lang="pt">Venda Premiere</title>
+    <desc lang="pt">A maior cobertura dos campeonatos Brasileiro e Estadual com jogos em HD em até 08 canais para assistir a jogos ao vivo e exclusivos(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413120000 -0300" stop="20180413140000 -0300" channel="Premiere 3">
+    <title lang="pt">Venda Premiere</title>
+    <desc lang="pt">A maior cobertura dos campeonatos Brasileiro e Estadual com jogos em HD em até 08 canais para assistir a jogos ao vivo e exclusivos(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413140000 -0300" stop="20180413160000 -0300" channel="Premiere 3">
+    <title lang="pt">Venda Premiere</title>
+    <desc lang="pt">A maior cobertura dos campeonatos Brasileiro e Estadual com jogos em HD em até 08 canais para assistir a jogos ao vivo e exclusivos(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413160000 -0300" stop="20180413180000 -0300" channel="Premiere 3">
+    <title lang="pt">Venda Premiere</title>
+    <desc lang="pt">A maior cobertura dos campeonatos Brasileiro e Estadual com jogos em HD em até 08 canais para assistir a jogos ao vivo e exclusivos(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413180000 -0300" stop="20180413200000 -0300" channel="Premiere 3">
+    <title lang="pt">Venda Premiere</title>
+    <desc lang="pt">A maior cobertura dos campeonatos Brasileiro e Estadual com jogos em HD em até 08 canais para assistir a jogos ao vivo e exclusivos(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413200000 -0300" stop="20180413220000 -0300" channel="Premiere 3">
+    <title lang="pt">Venda Premiere</title>
+    <desc lang="pt">A maior cobertura dos campeonatos Brasileiro e Estadual com jogos em HD em até 08 canais para assistir a jogos ao vivo e exclusivos(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413220000 -0300" stop="20180414000000 -0300" channel="Premiere 3">
+    <title lang="pt">Venda Premiere</title>
+    <desc lang="pt">A maior cobertura dos campeonatos Brasileiro e Estadual com jogos em HD em até 08 canais para assistir a jogos ao vivo e exclusivos(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413000000 -0300" stop="20180413023000 -0300" channel="Premiere 4">
+    <title lang="pt">Venda Premiere 4</title>
+    <desc lang="pt">A maior cobertura dos campeonatos Brasileiro e Estadual com jogos em HD em até 08 canais para assistir a jogos ao vivo e exclusivos(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413023000 -0300" stop="20180413030000 -0300" channel="Premiere 4">
+    <title lang="pt">Venda Premiere 4</title>
+    <desc lang="pt">A maior cobertura dos campeonatos Brasileiro e Estadual com jogos em HD em até 08 canais para assistir a jogos ao vivo e exclusivos(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413030000 -0300" stop="20180413050000 -0300" channel="Premiere 4">
+    <title lang="pt">Venda Premiere 4</title>
+    <desc lang="pt">A maior cobertura dos campeonatos Brasileiro e Estadual com jogos em HD em até 08 canais para assistir a jogos ao vivo e exclusivos(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413050000 -0300" stop="20180413060000 -0300" channel="Premiere 4">
+    <title lang="pt">Venda Premiere 4</title>
+    <desc lang="pt">A maior cobertura dos campeonatos Brasileiro e Estadual com jogos em HD em até 08 canais para assistir a jogos ao vivo e exclusivos(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413060000 -0300" stop="20180413080000 -0300" channel="Premiere 4">
+    <title lang="pt">Venda Premiere 4</title>
+    <desc lang="pt">A maior cobertura dos campeonatos Brasileiro e Estadual com jogos em HD em até 08 canais para assistir a jogos ao vivo e exclusivos(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413080000 -0300" stop="20180413100000 -0300" channel="Premiere 4">
+    <title lang="pt">Venda Premiere 4</title>
+    <desc lang="pt">A maior cobertura dos campeonatos Brasileiro e Estadual com jogos em HD em até 08 canais para assistir a jogos ao vivo e exclusivos(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413100000 -0300" stop="20180413120000 -0300" channel="Premiere 4">
+    <title lang="pt">Venda Premiere 4</title>
+    <desc lang="pt">A maior cobertura dos campeonatos Brasileiro e Estadual com jogos em HD em até 08 canais para assistir a jogos ao vivo e exclusivos(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413120000 -0300" stop="20180413140000 -0300" channel="Premiere 4">
+    <title lang="pt">Venda Premiere 4</title>
+    <desc lang="pt">A maior cobertura dos campeonatos Brasileiro e Estadual com jogos em HD em até 08 canais para assistir a jogos ao vivo e exclusivos(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413140000 -0300" stop="20180413143000 -0300" channel="Premiere 4">
+    <title lang="pt">Venda Premiere 4</title>
+    <desc lang="pt">A maior cobertura dos campeonatos Brasileiro e Estadual com jogos em HD em até 08 canais para assistir a jogos ao vivo e exclusivos(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413143000 -0300" stop="20180413163000 -0300" channel="Premiere 4">
+    <title lang="pt">Venda Premiere 4</title>
+    <desc lang="pt">A maior cobertura dos campeonatos Brasileiro e Estadual com jogos em HD em até 08 canais para assistir a jogos ao vivo e exclusivos(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413163000 -0300" stop="20180413170000 -0300" channel="Premiere 4">
+    <title lang="pt">Venda Premiere 4</title>
+    <desc lang="pt">A maior cobertura dos campeonatos Brasileiro e Estadual com jogos em HD em até 08 canais para assistir a jogos ao vivo e exclusivos(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413170000 -0300" stop="20180413190000 -0300" channel="Premiere 4">
+    <title lang="pt">Venda Premiere 4</title>
+    <desc lang="pt">A maior cobertura dos campeonatos Brasileiro e Estadual com jogos em HD em até 08 canais para assistir a jogos ao vivo e exclusivos(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413190000 -0300" stop="20180413200000 -0300" channel="Premiere 4">
+    <title lang="pt">Venda Premiere 4</title>
+    <desc lang="pt">A maior cobertura dos campeonatos Brasileiro e Estadual com jogos em HD em até 08 canais para assistir a jogos ao vivo e exclusivos(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413200000 -0300" stop="20180413220000 -0300" channel="Premiere 4">
+    <title lang="pt">Venda Premiere 4</title>
+    <desc lang="pt">A maior cobertura dos campeonatos Brasileiro e Estadual com jogos em HD em até 08 canais para assistir a jogos ao vivo e exclusivos(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413220000 -0300" stop="20180414000000 -0300" channel="Premiere 4">
+    <title lang="pt">Venda Premiere 4</title>
+    <desc lang="pt">A maior cobertura dos campeonatos Brasileiro e Estadual com jogos em HD em até 08 canais para assistir a jogos ao vivo e exclusivos(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413010000 -0300" stop="20180413040000 -0300" channel="Premiere 5">
+    <title lang="pt">Venda Premiere 5</title>
+    <desc lang="pt">A maior cobertura dos campeonatos Brasileiro e Estadual com jogos em HD em até 08 canais para assistir a jogos ao vivo e exclusivos(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413040000 -0300" stop="20180413070000 -0300" channel="Premiere 5">
+    <title lang="pt">Venda Premiere 5</title>
+    <desc lang="pt">A maior cobertura dos campeonatos Brasileiro e Estadual com jogos em HD em até 08 canais para assistir a jogos ao vivo e exclusivos(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413070000 -0300" stop="20180413100000 -0300" channel="Premiere 5">
+    <title lang="pt">Venda Premiere 5</title>
+    <desc lang="pt">A maior cobertura dos campeonatos Brasileiro e Estadual com jogos em HD em até 08 canais para assistir a jogos ao vivo e exclusivos(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413100000 -0300" stop="20180413130000 -0300" channel="Premiere 5">
+    <title lang="pt">Venda Premiere 5</title>
+    <desc lang="pt">A maior cobertura dos campeonatos Brasileiro e Estadual com jogos em HD em até 08 canais para assistir a jogos ao vivo e exclusivos(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413130000 -0300" stop="20180413160000 -0300" channel="Premiere 5">
+    <title lang="pt">Venda Premiere 5</title>
+    <desc lang="pt">A maior cobertura dos campeonatos Brasileiro e Estadual com jogos em HD em até 08 canais para assistir a jogos ao vivo e exclusivos(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413160000 -0300" stop="20180413190000 -0300" channel="Premiere 5">
+    <title lang="pt">Venda Premiere 5</title>
+    <desc lang="pt">A maior cobertura dos campeonatos Brasileiro e Estadual com jogos em HD em até 08 canais para assistir a jogos ao vivo e exclusivos(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413190000 -0300" stop="20180413220000 -0300" channel="Premiere 5">
+    <title lang="pt">Venda Premiere 5</title>
+    <desc lang="pt">A maior cobertura dos campeonatos Brasileiro e Estadual com jogos em HD em até 08 canais para assistir a jogos ao vivo e exclusivos(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413220000 -0300" stop="20180414010000 -0300" channel="Premiere 5">
+    <title lang="pt">Venda Premiere 5</title>
+    <desc lang="pt">A maior cobertura dos campeonatos Brasileiro e Estadual com jogos em HD em até 08 canais para assistir a jogos ao vivo e exclusivos(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413000000 -0300" stop="20180413020000 -0300" channel="Premiere 6">
+    <title lang="pt">Venda Premiere 6</title>
+    <desc lang="pt">A maior cobertura dos campeonatos Brasileiro e Estadual com jogos em HD em até 08 canais para assistir a jogos ao vivo e exclusivos(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413020000 -0300" stop="20180413040000 -0300" channel="Premiere 6">
+    <title lang="pt">Venda Premiere 6</title>
+    <desc lang="pt">A maior cobertura dos campeonatos Brasileiro e Estadual com jogos em HD em até 08 canais para assistir a jogos ao vivo e exclusivos(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413040000 -0300" stop="20180413070000 -0300" channel="Premiere 6">
+    <title lang="pt">Venda Premiere 6</title>
+    <desc lang="pt">A maior cobertura dos campeonatos Brasileiro e Estadual com jogos em HD em até 08 canais para assistir a jogos ao vivo e exclusivos(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413070000 -0300" stop="20180413100000 -0300" channel="Premiere 6">
+    <title lang="pt">Venda Premiere 6</title>
+    <desc lang="pt">A maior cobertura dos campeonatos Brasileiro e Estadual com jogos em HD em até 08 canais para assistir a jogos ao vivo e exclusivos(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413100000 -0300" stop="20180413130000 -0300" channel="Premiere 6">
+    <title lang="pt">Venda Premiere 6</title>
+    <desc lang="pt">A maior cobertura dos campeonatos Brasileiro e Estadual com jogos em HD em até 08 canais para assistir a jogos ao vivo e exclusivos(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413130000 -0300" stop="20180413160000 -0300" channel="Premiere 6">
+    <title lang="pt">Venda Premiere 6</title>
+    <desc lang="pt">A maior cobertura dos campeonatos Brasileiro e Estadual com jogos em HD em até 08 canais para assistir a jogos ao vivo e exclusivos(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413160000 -0300" stop="20180413190000 -0300" channel="Premiere 6">
+    <title lang="pt">Venda Premiere 6</title>
+    <desc lang="pt">A maior cobertura dos campeonatos Brasileiro e Estadual com jogos em HD em até 08 canais para assistir a jogos ao vivo e exclusivos(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413190000 -0300" stop="20180413210000 -0300" channel="Premiere 6">
+    <title lang="pt">Venda Premiere 6</title>
+    <desc lang="pt">A maior cobertura dos campeonatos Brasileiro e Estadual com jogos em HD em até 08 canais para assistir a jogos ao vivo e exclusivos(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413210000 -0300" stop="20180414000000 -0300" channel="Premiere 6">
+    <title lang="pt">Venda Premiere 6</title>
+    <desc lang="pt">A maior cobertura dos campeonatos Brasileiro e Estadual com jogos em HD em até 08 canais para assistir a jogos ao vivo e exclusivos(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413000000 -0300" stop="20180413020000 -0300" channel="Premiere 7">
+    <title lang="pt">Venda Premiere 7</title>
+    <desc lang="pt">A maior cobertura dos campeonatos Brasileiro e Estadual com jogos em HD em até 08 canais para assistir a jogos ao vivo e exclusivos(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413020000 -0300" stop="20180413040000 -0300" channel="Premiere 7">
+    <title lang="pt">Venda Premiere 7</title>
+    <desc lang="pt">A maior cobertura dos campeonatos Brasileiro e Estadual com jogos em HD em até 08 canais para assistir a jogos ao vivo e exclusivos(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413040000 -0300" stop="20180413060000 -0300" channel="Premiere 7">
+    <title lang="pt">Venda Premiere 7</title>
+    <desc lang="pt">A maior cobertura dos campeonatos Brasileiro e Estadual com jogos em HD em até 08 canais para assistir a jogos ao vivo e exclusivos(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413060000 -0300" stop="20180413080000 -0300" channel="Premiere 7">
+    <title lang="pt">Venda Premiere 7</title>
+    <desc lang="pt">A maior cobertura dos campeonatos Brasileiro e Estadual com jogos em HD em até 08 canais para assistir a jogos ao vivo e exclusivos(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413080000 -0300" stop="20180413100000 -0300" channel="Premiere 7">
+    <title lang="pt">Venda Premiere 7</title>
+    <desc lang="pt">A maior cobertura dos campeonatos Brasileiro e Estadual com jogos em HD em até 08 canais para assistir a jogos ao vivo e exclusivos(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413100000 -0300" stop="20180413120000 -0300" channel="Premiere 7">
+    <title lang="pt">Venda Premiere 7</title>
+    <desc lang="pt">A maior cobertura dos campeonatos Brasileiro e Estadual com jogos em HD em até 08 canais para assistir a jogos ao vivo e exclusivos(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413120000 -0300" stop="20180413140000 -0300" channel="Premiere 7">
+    <title lang="pt">Venda Premiere 7</title>
+    <desc lang="pt">A maior cobertura dos campeonatos Brasileiro e Estadual com jogos em HD em até 08 canais para assistir a jogos ao vivo e exclusivos(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413140000 -0300" stop="20180413160000 -0300" channel="Premiere 7">
+    <title lang="pt">Venda Premiere 7</title>
+    <desc lang="pt">A maior cobertura dos campeonatos Brasileiro e Estadual com jogos em HD em até 08 canais para assistir a jogos ao vivo e exclusivos(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413160000 -0300" stop="20180413180000 -0300" channel="Premiere 7">
+    <title lang="pt">Venda Premiere 7</title>
+    <desc lang="pt">A maior cobertura dos campeonatos Brasileiro e Estadual com jogos em HD em até 08 canais para assistir a jogos ao vivo e exclusivos(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413180000 -0300" stop="20180413200000 -0300" channel="Premiere 7">
+    <title lang="pt">Venda Premiere 7</title>
+    <desc lang="pt">A maior cobertura dos campeonatos Brasileiro e Estadual com jogos em HD em até 08 canais para assistir a jogos ao vivo e exclusivos(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413200000 -0300" stop="20180413220000 -0300" channel="Premiere 7">
+    <title lang="pt">Venda Premiere 7</title>
+    <desc lang="pt">A maior cobertura dos campeonatos Brasileiro e Estadual com jogos em HD em até 08 canais para assistir a jogos ao vivo e exclusivos(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413220000 -0300" stop="20180414000000 -0300" channel="Premiere 7">
+    <title lang="pt">Venda Premiere 7</title>
+    <desc lang="pt">A maior cobertura dos campeonatos Brasileiro e Estadual com jogos em HD em até 08 canais para assistir a jogos ao vivo e exclusivos(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413003000 -0300" stop="20180413013000 -0300" channel="SporTV 3 HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Atl. Paranaense x Newell's Old Boys (ARG)</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413013000 -0300" stop="20180413023000 -0300" channel="SporTV 3 HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Internacional x Vitória</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413023000 -0300" stop="20180413043000 -0300" channel="SporTV 3 HD">
+    <title lang="pt">NBB: Vasco x Bauru</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413043000 -0300" stop="20180413053000 -0300" channel="SporTV 3 HD">
+    <title lang="pt">UFC 223</title>
+    <sub-title lang="pt">Khabib x Iaquinta</sub-title>
+    <desc lang="pt">Neste UFC, Iaquinta encara Khabib Nurmagomedov. Rose Namajunas e Joanna Jedrzejczyk fazem uma revanche valendo o cinturão das peso palha. O peso-pena brasileiro Renato Moicano enfrenta Calvin Kattar, e muito mais(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413053000 -0300" stop="20180413063000 -0300" channel="SporTV 3 HD">
+    <title lang="pt">UFC: Werdum x Volkov</title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413063000 -0300" stop="20180413073000 -0300" channel="SporTV 3 HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Internacional x Vitória</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413073000 -0300" stop="20180413083000 -0300" channel="SporTV 3 HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Brasil RS x Grêmio</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413083000 -0300" stop="20180413103000 -0300" channel="SporTV 3 HD">
+    <title lang="pt">Mundial de Patinação Sincronizada: Estocolmo, Suécia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413103000 -0300" stop="20180413113000 -0300" channel="SporTV 3 HD">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Lucas Gutierrez traz ao vivo os melhores momentos do futebol nacional e internacional, além de cobertura ao vivo de treinos, coletivas, análises táticas dos principais times do país e reportagens especiais(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413113000 -0300" stop="20180413123000 -0300" channel="SporTV 3 HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Atl. Paranaense x Newell's Old Boys (ARG)</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413123000 -0300" stop="20180413133000 -0300" channel="SporTV 3 HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">San Lorenzo (ARG) x Atlético mg</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413133000 -0300" stop="20180413143000 -0300" channel="SporTV 3 HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Palmeiras x Boca Juniors (ARG)</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413143000 -0300" stop="20180413150000 -0300" channel="SporTV 3 HD">
+    <title lang="pt">Globo Esporte</title>
+    <sub-title lang="pt">São Paulo</sub-title>
+    <desc lang="pt">Tradicional programa da TV Globo que mostra o dia a dia do esporte e as principais notícias pelo país(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413150000 -0300" stop="20180413160000 -0300" channel="SporTV 3 HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Audax Italiano (CHI) x Botafogo</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413160000 -0300" stop="20180413163000 -0300" channel="SporTV 3 HD">
+    <title lang="pt">Globo Esporte</title>
+    <sub-title lang="pt">Rio de Janeiro</sub-title>
+    <desc lang="pt">Tradicional programa da TV Globo que mostra o dia a dia do esporte e as principais notícias pelo país(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413163000 -0300" stop="20180413173000 -0300" channel="SporTV 3 HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Rosário Central (ARG) x São Paulo</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413173000 -0300" stop="20180413183000 -0300" channel="SporTV 3 HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Internacional x Vitória</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413183000 -0300" stop="20180413190000 -0300" channel="SporTV 3 HD">
+    <title lang="pt">NBA Action</title>
+    <desc lang="pt">Grandes jogadas, as melhores enterradas, entrevistas com as feras e o que de melhor aconteceu nas partidas da NBA, a maior liga de basquete do mundo, você assiste aqui no SporTV no programa 'NBA Action'(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413190000 -0300" stop="20180413200000 -0300" channel="SporTV 3 HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">San Lorenzo (ARG) x Atlético mg</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413200000 -0300" stop="20180413210000 -0300" channel="SporTV 3 HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Palmeiras x Boca Juniors (ARG)</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413210000 -0300" stop="20180413220000 -0300" channel="SporTV 3 HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Rosário Central (ARG) x São Paulo</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413220000 -0300" stop="20180413230000 -0300" channel="SporTV 3 HD">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Lucas Gutierrez traz ao vivo os melhores momentos do futebol nacional e internacional, além de cobertura ao vivo de treinos, coletivas, análises táticas dos principais times do país e reportagens especiais(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413230000 -0300" stop="20180414010000 -0300" channel="SporTV 3 HD">
+    <title lang="pt">MLS: Vancouver Whitecaps x Los Angeles Fc</title>
+    <sub-title lang="pt">Vivo</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413003000 -0300" stop="20180413004000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">SporTV News</title>
+    <sub-title lang="pt">Vivo</sub-title>
+    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413004000 -0300" stop="20180413020000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Rosário Central (ARG) x São Paulo</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413020000 -0300" stop="20180413030000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Audax Italiano (CHI) x Botafogo</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413030000 -0300" stop="20180413043000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">Fórmula 1: 2º Treino Livre</title>
+    <sub-title lang="pt">Vivo</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413043000 -0300" stop="20180413053000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Fluminense x Nacional Potosí (BOL)</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413053000 -0300" stop="20180413063000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Audax Italiano (CHI) x Botafogo</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413063000 -0300" stop="20180413073000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Palmeiras x Boca Juniors (ARG)</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413073000 -0300" stop="20180413083000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Atl. Paranaense x Newell's Old Boys (ARG)</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413083000 -0300" stop="20180413090000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">Histórias da Copa do Mundo</title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413090000 -0300" stop="20180413100000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">San Lorenzo (ARG) x Atlético mg</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413100000 -0300" stop="20180413110000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Rosário Central (ARG) x São Paulo</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413110000 -0300" stop="20180413120000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Palmeiras x Boca Juniors (ARG)</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413120000 -0300" stop="20180413130000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Audax Italiano (CHI) x Botafogo</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413130000 -0300" stop="20180413131000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">SporTV News</title>
+    <sub-title lang="pt">Vivo</sub-title>
+    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413131000 -0300" stop="20180413141000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Rosário Central (ARG) x São Paulo</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413141000 -0300" stop="20180413142000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">SporTV News</title>
+    <sub-title lang="pt">Vivo</sub-title>
+    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413142000 -0300" stop="20180413152000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Palmeiras x Boca Juniors (ARG)</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413152000 -0300" stop="20180413154500 -0300" channel="SporTV 2 HD">
+    <title lang="pt">SporTV News</title>
+    <sub-title lang="pt">Vivo</sub-title>
+    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413154500 -0300" stop="20180413174500 -0300" channel="SporTV 2 HD">
+    <title lang="pt">Angers x Nice</title>
+    <sub-title lang="pt">Vivo</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413174500 -0300" stop="20180413180000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">SporTV News</title>
+    <sub-title lang="pt">Vivo</sub-title>
+    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413180000 -0300" stop="20180413190000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">UFC: Machida x Anders</title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413190000 -0300" stop="20180413191000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">SporTV News</title>
+    <sub-title lang="pt">Vivo</sub-title>
+    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413191000 -0300" stop="20180413200000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">UFC 223</title>
+    <sub-title lang="pt">Khabib x Iaquinta</sub-title>
+    <desc lang="pt">Neste UFC, Iaquinta encara Khabib Nurmagomedov. Rose Namajunas e Joanna Jedrzejczyk fazem uma revanche valendo o cinturão das peso palha. O peso-pena brasileiro Renato Moicano enfrenta Calvin Kattar, e muito mais(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413200000 -0300" stop="20180413201000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">SporTV News</title>
+    <sub-title lang="pt">Vivo</sub-title>
+    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413201000 -0300" stop="20180413205000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">Baú do Esporte</title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413205000 -0300" stop="20180413210000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">SporTV News</title>
+    <sub-title lang="pt">Vivo</sub-title>
+    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413210000 -0300" stop="20180413213000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">Pré Jogo</title>
+    <sub-title lang="pt">Vivo</sub-title>
+    <desc lang="pt">Só aqui no seu canal campeão, você confere tudo que cerca o próximo evento que será exibido pelo SporTV, com os comentários e as reportagens dos melhores comentaristas esportivos da TV brasileira(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413213000 -0300" stop="20180413233000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">Superliga de Vôlei Masculino: Cruzeiro x Taubaté</title>
+    <sub-title lang="pt">Vivo</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413233000 -0300" stop="20180414000000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">SporTV News</title>
+    <sub-title lang="pt">Vivo</sub-title>
+    <desc lang="pt">O Sportvnews é o telejornal diário que traz para o assinante as principais notícias do esporte nacional e internacional. O programa conta também com um time campeão de repórteres(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413010000 -0300" stop="20180413020000 -0300" channel="SporTV HD">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Lucas Gutierrez traz ao vivo os melhores momentos do futebol nacional e internacional, além de cobertura ao vivo de treinos, coletivas, análises táticas dos principais times do país e reportagens especiais(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413020000 -0300" stop="20180413033000 -0300" channel="SporTV HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Palmeiras x Boca Juniors (ARG)</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413033000 -0300" stop="20180413043000 -0300" channel="SporTV HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Rosário Central (ARG) x São Paulo</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413043000 -0300" stop="20180413053000 -0300" channel="SporTV HD">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Lucas Gutierrez traz ao vivo os melhores momentos do futebol nacional e internacional, além de cobertura ao vivo de treinos, coletivas, análises táticas dos principais times do país e reportagens especiais(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413053000 -0300" stop="20180413063000 -0300" channel="SporTV HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">San Lorenzo (ARG) x Atlético mg</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413063000 -0300" stop="20180413073000 -0300" channel="SporTV HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Rosário Central (ARG) x São Paulo</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413073000 -0300" stop="20180413083000 -0300" channel="SporTV HD">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Lucas Gutierrez traz ao vivo os melhores momentos do futebol nacional e internacional, além de cobertura ao vivo de treinos, coletivas, análises táticas dos principais times do país e reportagens especiais(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413083000 -0300" stop="20180413090000 -0300" channel="SporTV HD">
+    <title lang="pt">Baú do Esporte</title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413090000 -0300" stop="20180413094500 -0300" channel="SporTV HD">
+    <title lang="pt">Planeta SporTV</title>
+    <sub-title lang="pt">Vivo</sub-title>
+    <desc lang="pt">As principais notícias do esporte pelo mundo, a repercussão internacional e os aspectos culturais do esporte lá fora, com correspondentes na Europa, EUA, Ásia e Américas pra rodar o mundo sem sair do lugar(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413094500 -0300" stop="20180413120000 -0300" channel="SporTV HD">
+    <title lang="pt">Redação SporTV</title>
+    <sub-title lang="pt">Vivo</sub-title>
+    <desc lang="pt">André Rizek recebe jornalistas convidados para discutir o esporte e rodar o Brasil com notícias de norte a sul. Direto da redação do SporTV, o programa repercute as notícias do rádio, TV, impresso e online(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413120000 -0300" stop="20180413124500 -0300" channel="SporTV HD">
+    <title lang="pt">É Gol!</title>
+    <sub-title lang="pt">Vivo</sub-title>
+    <desc lang="pt">Conheça o novo É Gol!!! Novo estúdio, novos quadros e nova apresentadora, Ana Helena Goebel. Não perca! De segunda a sexta, sempre ao meio-dia(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413124500 -0300" stop="20180413160000 -0300" channel="SporTV HD">
+    <title lang="pt">Seleção SporTV</title>
+    <sub-title lang="pt">Vivo</sub-title>
+    <desc lang="pt">Seleção SporTV, tudo sobre futebol! O balanço da rodada e os jogos que vem por aí num debate inteligente e com convidados diários. Além de muita interatividade e as criativas hashtags. O comando é de Marcelo Barreto(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413160000 -0300" stop="20180413170000 -0300" channel="SporTV HD">
+    <title lang="pt">Giro da Rodada</title>
+    <sub-title lang="pt">Vivo</sub-title>
+    <desc lang="pt">Lucas Gutierrez traz ao vivo os melhores momentos do futebol nacional e internacional, além de cobertura ao vivo de treinos, coletivas, análises táticas dos principais times do país e reportagens especiais(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413170000 -0300" stop="20180413183000 -0300" channel="SporTV HD">
+    <title lang="pt">Tá na Área</title>
+    <sub-title lang="pt">Vivo</sub-title>
+    <desc lang="pt">A dupla Bárbara Coelho e Thiago Oliveira comanda o Tá na Área, programa diário que fala um pouco de todos os esportes, acompanha o dia a dia dos principais clubes de futebol do Brasil e ainda tem matérias e entrevistas exclusivas(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413183000 -0300" stop="20180413191500 -0300" channel="SporTV HD">
+    <title lang="pt">Pré Jogo</title>
+    <sub-title lang="pt">Vivo</sub-title>
+    <desc lang="pt">Só aqui no seu canal campeão, você confere tudo que cerca o próximo evento que será exibido pelo SporTV, com os comentários e as reportagens dos melhores comentaristas esportivos da TV brasileira(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413191500 -0300" stop="20180413211500 -0300" channel="SporTV HD">
+    <title lang="pt">Fortaleza x Guarani</title>
+    <sub-title lang="pt">Vivo</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413211500 -0300" stop="20180413213000 -0300" channel="SporTV HD">
+    <title lang="pt">Pré Jogo</title>
+    <sub-title lang="pt">Vivo</sub-title>
+    <desc lang="pt">Só aqui no seu canal campeão, você confere tudo que cerca o próximo evento que será exibido pelo SporTV, com os comentários e as reportagens dos melhores comentaristas esportivos da TV brasileira(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413213000 -0300" stop="20180413233000 -0300" channel="SporTV HD">
+    <title lang="pt">Figueirense x Juventude</title>
+    <sub-title lang="pt">Vivo</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413233000 -0300" stop="20180414010000 -0300" channel="SporTV HD">
+    <title lang="pt">Troca de Passes</title>
+    <sub-title lang="pt">Vivo</sub-title>
+    <desc lang="pt">Tiago Maranhão e Roger Flores comandam o novo Troca, agora de terça a domingo e com novo estúdio. Sempre após a rodada, acompanhe a melhor análise pós-jogo da TV brasileira(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413010000 -0300" stop="20180413020000 -0300" channel="AXN">
+    <title lang="pt">Hawaii Five-0</title>
+    <desc lang="pt">Ao mesmo temp em que o trabalho supostamente inofensivo de vigilância toma um caminho mortal, Adam considera fazer o sacrifício final para salvar Kono(n)</desc>
+    <credits>
+      <director>Jeffrey G. Hunt</director>
+      <actor>Alex O'Loughlin</actor>
+      <actor>Scott Caan</actor>
+      <actor>Daniel Dae Kim</actor>
+      <actor>Michelle Borth</actor>
+      <actor>Lacey Beeman</actor>
+      <actor>Larry Poindexter</actor>
+      <actor>Dennis Chun</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413020000 -0300" stop="20180413030000 -0300" channel="AXN">
+    <title lang="pt">Castle</title>
+    <desc lang="pt">Castle e Beckett investigam o assassinato de uma mulher encontrada congelada em um canteiro de obras(n)</desc>
+    <credits>
+      <director>Bryan Spicer</director>
+      <actor>Nathan Fillion</actor>
+      <actor>Stana Katic</actor>
+      <actor>Susan Sullivan</actor>
+      <actor>Ruben Santiago-Hudson</actor>
+      <actor>Molly C. Quinn</actor>
+      <actor>Jon Huertas</actor>
+      <actor>Tamala Jones</actor>
+      <actor>Seamus Dever</actor>
+      <actor>Bill Smitrovich</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413030000 -0300" stop="20180413040000 -0300" channel="AXN">
+    <title lang="pt">C.S.I. Miami</title>
+    <desc lang="pt">Diamantes são roubados durante um assalto a uma joalheria e um cliente é baleado. Os diamantes são rapidamente recuperados, mas eles desaparecem do depósito de evidências(n)</desc>
+    <credits>
+      <director>null</director>
+      <actor>David Caruso</actor>
+      <actor>Rex Linn</actor>
+      <actor>Emily Procter</actor>
+      <actor>Eva La Rue</actor>
+      <actor>Adam Rodriguez</actor>
+      <actor>Jonathan Togo</actor>
+      <actor>Eddie Cibrian</actor>
+      <actor>Omar Benson Miller</actor>
+      <actor>Christian Clemenson</actor>
+      <actor>Tina Casciani</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413040000 -0300" stop="20180413050000 -0300" channel="AXN">
+    <title lang="pt">C.S.I. Miami</title>
+    <desc lang="pt">Uma moradora do subúrbio é espancada até a morte logo depois de celebrar seu 20º aniversário de casamento com uma festa em sua casa(n)</desc>
+    <credits>
+      <director>Gina Lamar</director>
+      <actor>David Caruso</actor>
+      <actor>Emily Procter</actor>
+      <actor>Christina Chang</actor>
+      <actor>Jonathan Togo</actor>
+      <actor>Rex Linn</actor>
+      <actor>Eva La Rue</actor>
+      <actor>Eddie Cibrian</actor>
+      <actor>Omar Benson Miller</actor>
+      <actor>Christian Clemenson</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413050000 -0300" stop="20180413060000 -0300" channel="AXN">
+    <title lang="pt">C.S.I. Miami</title>
+    <desc lang="pt">O chefe de Delko é morto com a explosão de um carro, que também deveria matar Delko(n)</desc>
+    <credits>
+      <director>Sam Hill</director>
+      <actor>David Caruso</actor>
+      <actor>Emily Procter</actor>
+      <actor>Adam Rodriguez</actor>
+      <actor>Jonathan Togo</actor>
+      <actor>Rex Linn</actor>
+      <actor>Eva La Rue</actor>
+      <actor>Eddie Cibrian</actor>
+      <actor>Omar Benson Miller</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413060000 -0300" stop="20180413070000 -0300" channel="AXN">
+    <title lang="pt">C.S.I. NY</title>
+    <desc lang="pt">O que seria uma festa de casamento feliz termina sendo justamente o contrário, quando o noivo é encontrado morto dentro de um dos presentes de casamento(n)</desc>
+    <credits>
+      <director>Rob Bailey</director>
+      <actor>Gary Sinise</actor>
+      <actor>Anna Belknap</actor>
+      <actor>Hill Harper</actor>
+      <actor>Melina Kanakaredes</actor>
+      <actor>Carmine Giovinazzo</actor>
+      <actor>Robert Joy</actor>
+      <actor>Kerr Smith</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413070000 -0300" stop="20180413080000 -0300" channel="AXN">
+    <title lang="pt">C.S.I. NY</title>
+    <desc lang="pt">Em Chicago, Mac descobre mais pistas sobre o seu perseguidor e revela seu passado perturbador. Enquanto isso, em Nova York, o restante da equipe está correndo perigo(n)</desc>
+    <credits>
+      <director>Anthony Hemingway</director>
+      <actor>Gary Sinise</actor>
+      <actor>Anna Belknap</actor>
+      <actor>Hill Harper</actor>
+      <actor>Melina Kanakaredes</actor>
+      <actor>Carmine Giovinazzo</actor>
+      <actor>Robert Joy</actor>
+      <actor>Frank Grillo</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413080000 -0300" stop="20180413090000 -0300" channel="AXN">
+    <title lang="pt">C.S.I. NY</title>
+    <desc lang="pt">Danny fica arrasado quando um rapaz que ele conhece é morto no meio de um assalto a um armazém. Lindsay, Stella e Flack investigam o caso de um homem que morreu por causa de um charuto que explodiu(n)</desc>
+    <credits>
+      <director>Jeffrey G. Hunt</director>
+      <actor>Gary Sinise</actor>
+      <actor>Anna Belknap</actor>
+      <actor>Hill Harper</actor>
+      <actor>Melina Kanakaredes</actor>
+      <actor>Carmine Giovinazzo</actor>
+      <actor>Richard V. Licata</actor>
+      <actor>Jacqueline Piñol</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413090000 -0300" stop="20180413100000 -0300" channel="AXN">
+    <title lang="pt">C.S.I. NY</title>
+    <desc lang="pt">Mac e sua equipe sentem que estão voltando para o Kansas, quando encontram um corpo com sapatos vermelhos nos pés. A vítima foi esmagada até a morte com um objeto incomum(n)</desc>
+    <credits>
+      <director>Marshall Adams</director>
+      <actor>Gary Sinise</actor>
+      <actor>Anna Belknap</actor>
+      <actor>Hill Harper</actor>
+      <actor>Melina Kanakaredes</actor>
+      <actor>Carmine Giovinazzo</actor>
+      <actor>A.J. Buckley</actor>
+      <actor>Matt Battaglia</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413100000 -0300" stop="20180413110000 -0300" channel="AXN">
+    <title lang="pt">C.S.I. NY</title>
+    <desc lang="pt">Mac e sua equipe devem descobrir como a morte de uma mulher e assassinato de um juiz estão conectados. Danny tem problemas para lidar com a morte de Ruben Sandoval(n)</desc>
+    <credits>
+      <director>Marshall Adams</director>
+      <director>Rob Bailey</director>
+      <actor>Gary Sinise</actor>
+      <actor>Hill Harper</actor>
+      <actor>Melina Kanakaredes</actor>
+      <actor>Carmine Giovinazzo</actor>
+      <actor>Eddie Cahill</actor>
+      <actor>Anna Belknap</actor>
+      <actor>Robert Joy</actor>
+      <actor>Shiloh Fernandez</actor>
+      <actor>Jacqueline Piñol</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413110000 -0300" stop="20180413115500 -0300" channel="AXN">
+    <title lang="pt">Hawaii Five-0</title>
+    <desc lang="pt">O Dia das Bruxas chega ao Havaí e um homem que se parece com um zumbi é baleado. Dessa forma, o time corre contra o tempo para parar um maluco que está conduzindo experimentos em humanos(n)</desc>
+    <credits>
+      <director>John Terlesky</director>
+      <actor>Alex O'Loughlin</actor>
+      <actor>Scott Caan</actor>
+      <actor>Daniel Dae Kim</actor>
+      <actor>Michelle Borth</actor>
+      <actor>DJ Qualls</actor>
+      <actor>Brian Tee</actor>
+      <actor>Dennis Chun</actor>
+      <actor>Teilor Grubbs</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413115500 -0300" stop="20180413125000 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <desc lang="pt">A BAU é chamada para mais uma investigação depois que corpos de pessoas desaparecidas são encontrados em uma região distante do deserto de Idaho(n)</desc>
+    <credits>
+      <director>Félix Enríquez Alcalá</director>
+      <actor>Mandy Patinkin</actor>
+      <actor>Thomas Gibson</actor>
+      <actor>Paget Brewster</actor>
+      <actor>Shemar Moore</actor>
+      <actor>Matthew Gray Gubler</actor>
+      <actor>A.J. Cook</actor>
+      <actor>Kirsten Vangsness</actor>
+      <actor>Laura Allen</actor>
+      <actor>Jim Parrack</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413125000 -0300" stop="20180413134500 -0300" channel="AXN">
+    <title lang="pt">Castle</title>
+    <desc lang="pt">Castle e Beckett investigam a religião Vudon quanto um imigrante é torturado em um assassinato ritualístico(n)</desc>
+    <credits>
+      <director>Jamie Babbit</director>
+      <actor>Nathan Fillion</actor>
+      <actor>Stana Katic</actor>
+      <actor>Susan Sullivan</actor>
+      <actor>Ruben Santiago-Hudson</actor>
+      <actor>Molly C. Quinn</actor>
+      <actor>Jon Huertas</actor>
+      <actor>Tamala Jones</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413134500 -0300" stop="20180413144000 -0300" channel="AXN">
+    <title lang="pt">The Blacklist</title>
+    <desc lang="pt">Quando Red direciona a Força-Tarefa para encontrar um Blacklister que usa sua posição de poder para vender informações confidenciais, Ressler se vê em risco de ser exposto(n)</desc>
+    <credits>
+      <director>Paul Holahan</director>
+      <actor>James Spader</actor>
+      <actor>Megan Boone</actor>
+      <actor>Diego Klattenhoff</actor>
+      <actor>Amir Arison</actor>
+      <actor>Ryan Eggold</actor>
+      <actor>Ana Nogueira</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413144000 -0300" stop="20180413153500 -0300" channel="AXN">
+    <title lang="pt">Hawaii Five-0</title>
+    <desc lang="pt">Um chefe da máfia de um caso que Grover trabalhou há 15 anos busca vingança e obriga Grover a colocar sua família em fuga(n)</desc>
+    <credits>
+      <director>Brad Tanenbaum</director>
+      <actor>Alex O'Loughlin</actor>
+      <actor>Scott Caan</actor>
+      <actor>Daniel Dae Kim</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413153500 -0300" stop="20180413163000 -0300" channel="AXN">
+    <title lang="pt">The Blacklist</title>
+    <desc lang="pt">Um agente disfarçado da CIA é sequestrado por um grupo de separatistas no Uzbequistão, o que leva a força-tarefa a criar uma missão de resgate(n)</desc>
+    <credits>
+      <director>Andrew McCarthy</director>
+      <actor>James Spader</actor>
+      <actor>Megan Boone</actor>
+      <actor>Diego Klattenhoff</actor>
+      <actor>Harry Lennix</actor>
+      <actor>Olek Krupa</actor>
+      <actor>Dawn Yanek</actor>
+      <actor>Dante Nero</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413163000 -0300" stop="20180413172500 -0300" channel="AXN">
+    <title lang="pt">Hawaii Five-0</title>
+    <desc lang="pt">O Dia das Bruxas chega ao Havaí e um homem que se parece com um zumbi é baleado. Dessa forma, o time corre contra o tempo para parar um maluco que está conduzindo experimentos em humanos(n)</desc>
+    <credits>
+      <director>John Terlesky</director>
+      <actor>Alex O'Loughlin</actor>
+      <actor>Scott Caan</actor>
+      <actor>Daniel Dae Kim</actor>
+      <actor>Michelle Borth</actor>
+      <actor>DJ Qualls</actor>
+      <actor>Brian Tee</actor>
+      <actor>Dennis Chun</actor>
+      <actor>Teilor Grubbs</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413172500 -0300" stop="20180413182000 -0300" channel="AXN">
+    <title lang="pt">Castle</title>
+    <desc lang="pt">Castle e Beckett investigam a religião Vudon quanto um imigrante é torturado em um assassinato ritualístico(n)</desc>
+    <credits>
+      <director>Jamie Babbit</director>
+      <actor>Nathan Fillion</actor>
+      <actor>Stana Katic</actor>
+      <actor>Susan Sullivan</actor>
+      <actor>Ruben Santiago-Hudson</actor>
+      <actor>Molly C. Quinn</actor>
+      <actor>Jon Huertas</actor>
+      <actor>Tamala Jones</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413182000 -0300" stop="20180413191500 -0300" channel="AXN">
+    <title lang="pt">NCIS</title>
+    <desc lang="pt">NCIS é um seriado de ação dramático inspirado na famosa série JAG, sobre uma equipe de agentes especiais cuja missão é investigar qualquer crime que tem provas ligadas a pessoas da Marinha, sem levar em consideração cargos e posiç(n)</desc>
+    <credits>
+      <director>James Whitmore Jr.</director>
+      <actor>Mark Harmon</actor>
+      <actor>Michael Adler</actor>
+      <actor>Sasha Alexander</actor>
+      <actor>Michael Weatherly</actor>
+      <actor>Pauley Perrette</actor>
+      <actor>Sherilyn Fenn</actor>
+      <actor>Derek de Lint</actor>
+      <actor>Norbert Weisser</actor>
+      <actor>Jim Rash</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413191500 -0300" stop="20180413201000 -0300" channel="AXN">
+    <title lang="pt">C.S.I. NY</title>
+    <desc lang="pt">Um homem que aparentemente cometeu suicídio é encontrado enforcado em Ellis Island. A equipe deve descobrir como a morte aconteceu enquanto seguem os passos de um assassino que deixa compassos para trás(n)</desc>
+    <credits>
+      <director>Matt Earl Beesley</director>
+      <actor>Gary Sinise</actor>
+      <actor>Anna Belknap</actor>
+      <actor>Melina Kanakaredes</actor>
+      <actor>Carmine Giovinazzo</actor>
+      <actor>Robert Joy</actor>
+      <actor>A.J. Buckley</actor>
+      <actor>Hill Harper</actor>
+      <actor>Sarah Carter</actor>
+      <actor>Amara Cash</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413201000 -0300" stop="20180413210500 -0300" channel="AXN">
+    <title lang="pt">C.S.I. Miami</title>
+    <desc lang="pt">Eventos estranhos começam a acontecer, quando a esquipe CSI localiza um serial killer que mata durante o eclipse solar(n)</desc>
+    <credits>
+      <director>Christine Moore</director>
+      <actor>David Caruso</actor>
+      <actor>Emily Procter</actor>
+      <actor>Adam Rodriguez</actor>
+      <actor>Khandi Alexander</actor>
+      <actor>Jonathan Togo</actor>
+      <actor>Rex Linn</actor>
+      <actor>Eva La Rue</actor>
+      <actor>David Lee</actor>
+      <actor>Johnny Whitworth</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413210500 -0300" stop="20180413220000 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <desc lang="pt">A BAU é chamada para mais uma investigação depois que corpos de pessoas desaparecidas são encontrados em uma região distante do deserto de Idaho(n)</desc>
+    <credits>
+      <director>Félix Enríquez Alcalá</director>
+      <actor>Mandy Patinkin</actor>
+      <actor>Thomas Gibson</actor>
+      <actor>Paget Brewster</actor>
+      <actor>Shemar Moore</actor>
+      <actor>Matthew Gray Gubler</actor>
+      <actor>A.J. Cook</actor>
+      <actor>Kirsten Vangsness</actor>
+      <actor>Laura Allen</actor>
+      <actor>Jim Parrack</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413220000 -0300" stop="20180413225500 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <desc lang="pt">Quando não existem mais provas para investigar uma seqüência de crimes, o FBI rapidamente aciona a Unidade de Análise Comportamental, em Washington(n)</desc>
+    <credits>
+      <director>Christoph Schrewe</director>
+      <actor>Joe Mantegna</actor>
+      <actor>Matthew Gray Gubler</actor>
+      <actor>A.J. Cook</actor>
+      <actor>Daniel Henney</actor>
+      <actor>Solomon Shiv</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413225500 -0300" stop="20180413235500 -0300" channel="AXN">
+    <title lang="pt">C.S.I</title>
+    <desc lang="pt">Enquanto investigam o assassinato de um ex-policial condenado à prisão, os CSIs se deparam com uma lista em sua cela com o nome de diversos detentos que podem ter sido os verdadeiros assassinos de sua esposa(n)</desc>
+    <credits>
+      <director>Louis Shaw Milito</director>
+      <actor>Eric Szmanda</actor>
+      <actor>George Eads</actor>
+      <actor>Laurence Fishburne</actor>
+      <actor>Marg Helgenberger</actor>
+      <actor>Robert David Hall</actor>
+      <actor>Wallace Langham</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413235500 -0300" stop="20180414010000 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <desc lang="pt">Quando não existem mais provas para investigar uma seqüência de crimes, o FBI rapidamente aciona a Unidade de Análise Comportamental, em Washington(n)</desc>
+    <credits>
+      <director>Christoph Schrewe</director>
+      <actor>Joe Mantegna</actor>
+      <actor>Matthew Gray Gubler</actor>
+      <actor>A.J. Cook</actor>
+      <actor>Daniel Henney</actor>
+      <actor>Solomon Shiv</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
     </star-rating>
   </programme>
 </tv>
