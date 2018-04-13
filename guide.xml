@@ -2,6 +2,263 @@
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="UFC">
     <display-name lang="pt">UFC</display-name>
-    <url>http://www.clarotv.com.br</url>
+    <url>http://www.netcombo.com.br</url>
   </channel>
+  <programme start="20180413000000 -0300" stop="20180413014500 -0300" channel="UFC">
+    <title lang="pt">The Ultimate Fighter 18: Team Rousey x Team Tate</title>
+    <desc lang="pt">Pela primeira vez na história, as mulheres vão competir no Ultimate Fighter. Dezesseis mulheres vão lutar ao lado de dezesseis homens pelo seu lugar na casa(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413014500 -0300" stop="20180413023000 -0300" channel="UFC">
+    <title lang="pt">The Ultimate Fighter 18: Team Rousey x Team Tate</title>
+    <desc lang="pt">A tensão aumenta entre as treinadoras, e sonho UFC de um lutador esperançoso está ameaçado por uma lesão. Em seguida, as mulheres vão para a batalha quando o número um do sexo feminino pega Julianna Pena, da equipe Tate(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413023000 -0300" stop="20180413033000 -0300" channel="UFC">
+    <title lang="pt">UFC Now</title>
+    <desc lang="pt">Especialistas discutem as mais importantes lutas e principais assuntos do mundo UFC. Acesso exclusivo aos bastidores da maior organização de MMA do planeta(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413033000 -0300" stop="20180413041500 -0300" channel="UFC">
+    <title lang="pt">Combate News</title>
+    <desc lang="pt">Sob o comando de Luiz Prota, com a presença na bancada do jornalista Marcelo Alonso, o programa aborda as notícias quentes do mundo do MMA, tudo que os principais veículos repercutiram sobre a modalidade e o UFC(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413041500 -0300" stop="20180413061500 -0300" channel="UFC">
+    <title lang="pt">Hora do MMA</title>
+    <sub-title lang="pt">ACB 84: Agujev x Burrell</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413061500 -0300" stop="20180413070000 -0300" channel="UFC">
+    <title lang="pt">UFC Now</title>
+    <desc lang="pt">Especialistas discutem as mais importantes lutas e principais assuntos do mundo UFC. Acesso exclusivo aos bastidores da maior organização de MMA do planeta(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413070000 -0300" stop="20180413074500 -0300" channel="UFC">
+    <title lang="pt">Combate News</title>
+    <desc lang="pt">Sob o comando de Luiz Prota, com a presença na bancada do jornalista Marcelo Alonso, o programa aborda as notícias quentes do mundo do MMA, tudo que os principais veículos repercutiram sobre a modalidade e o UFC(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413074500 -0300" stop="20180413080000 -0300" channel="UFC">
+    <title lang="pt">Minuto BJJ Com Luciana Franchini</title>
+    <desc lang="pt">Matérias sobre o mundo do BJJ com a repórter Luciana Franchini(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413080000 -0300" stop="20180413084000 -0300" channel="UFC">
+    <title lang="pt">Arena Combate Grappling</title>
+    <sub-title lang="pt">Porta Fechada Bjj 1ª Edição</sub-title>
+    <desc lang="pt">A primeira edição do Porta Fechada BJJ traz grandes nomes do esporte. Os melhores atletas, de acordo com rankings estaduais, regionais e nacional, enfrentam-se, na busca pela valorização da cultura da arte marcial(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413084000 -0300" stop="20180413100000 -0300" channel="UFC">
+    <title lang="pt">Arena Combate Grappling</title>
+    <sub-title lang="pt">Bjj Stars Masters</sub-title>
+    <desc lang="pt">Nesta edição, o tatame do BJJ Stars recebeu o BJJ STARS: MASTERS(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413100000 -0300" stop="20180413110000 -0300" channel="UFC">
+    <title lang="pt">UFC Now</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413110000 -0300" stop="20180413113000 -0300" channel="UFC">
+    <title lang="pt">Sessão Combate</title>
+    <sub-title lang="pt">Laboratório da Luta: Stephen Thompson</sub-title>
+    <desc lang="pt">Stephen “Wonderboy” Thompson veio ao Laboratório da Luta provar cientificamente todo seu talento. Entre os testes, ele foi comparado a um crossfitter profissional, em circuitos intensos de força, agilidade e resistência(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413113000 -0300" stop="20180413120500 -0300" channel="UFC">
+    <title lang="pt">Sessão Combate</title>
+    <sub-title lang="pt">Futuros Campeões: Antonio \</sub-title>
+    <desc lang="pt">Antônio Carlos Jr foi um menino agitado que sempre fez o que tinha vontade. Mais velho, enfrentou seus medos e a síndrome do pânico, deixando para trás oponentes. Salvador é a cidade desse futuro campeão cheio de ginga(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413120500 -0300" stop="20180413125000 -0300" channel="UFC">
+    <title lang="pt">Sessão Combate</title>
+    <sub-title lang="pt">Viver Para Lutar Com Minotauro: Karate (Japão)</sub-title>
+    <desc lang="pt">Na paradisíaca ilha de Okinawa, Minotauro viveu a experiência do estilo de vida local: uma rotina suave, dieta saudável e mente limpa, todos preceitos guiados pela filosofia pregada na arte que brotou neste antigo reino(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413125000 -0300" stop="20180413133500 -0300" channel="UFC">
+    <title lang="pt">The Ultimate Fighter 25: Redemption</title>
+    <desc lang="pt">Dois lutadores lembram as dificuldades que tiveram que superar ao longo de suas carreiras. Uma pesagem tensa leva a outro confronto entre os treinadores. Então, a sexta luta da temporada acontece(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413133500 -0300" stop="20180413141500 -0300" channel="UFC">
+    <title lang="pt">Combate News</title>
+    <desc lang="pt">Sob o comando de Luiz Prota, com a presença na bancada do jornalista Marcelo Alonso, o programa aborda as notícias quentes do mundo do MMA, tudo que os principais veículos repercutiram sobre a modalidade e o UFC(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413141500 -0300" stop="20180413143000 -0300" channel="UFC">
+    <title lang="pt">Minuto BJJ Com Luciana Franchini</title>
+    <desc lang="pt">Matérias sobre o mundo do BJJ com a repórter Luciana Franchini(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413143000 -0300" stop="20180413180000 -0300" channel="UFC">
+    <title lang="pt">UFC Fight Night Combate</title>
+    <sub-title lang="pt">Johnson x Gaethje (TUF 25 Finale)</sub-title>
+    <desc lang="pt">Michael Johnson e o estreante Justin Gaethje duelam pelos leves, neste UFC que conta com a final do TUF 25. Além disso, Marc Diakiese encara Drakkar Klose, e a brasileira Juliana Lima faz a luta de abertura da noite(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413180000 -0300" stop="20180413190000 -0300" channel="UFC">
+    <title lang="pt">Best of Pride</title>
+    <desc lang="pt">Mauricio Shogun x Akihiro Gono; Jens Pulver x Taisho; Yves Edwards x Dokonjonosuke Mishima; Josh Thomson x Daisuke Sugie; Denis Kang x Mark Weir; Charles Barnett x Yoshihiro Maeda; Gergard Mousasi x Makoto Takimoto(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413190000 -0300" stop="20180413193000 -0300" channel="UFC">
+    <title lang="pt">UFC Series</title>
+    <sub-title lang="pt">UFC Top 10: Title Fights</sub-title>
+    <desc lang="pt">O UFC Top 10: Title Fights lista as 10 maiores disputas de cinturão da história do UFC. Reviva as lutas mais famosas, comentadas por lutadores do UFC, membros do Hall da Fama, treinadores e pelos próprios campeões(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413193000 -0300" stop="20180413194500 -0300" channel="UFC">
+    <title lang="pt">Giro Combate</title>
+    <desc lang="pt">A especialista Ana Hissa traz um giro com as principais notícias do mundo das artes marciais. Imagens e declarações exclusivas, em primeira mão, no Giro Combate, todas as sextas-feiras(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413194500 -0300" stop="20180413195500 -0300" channel="UFC">
+    <title lang="pt">Minuto BJJ Com Luciana Franchini</title>
+    <desc lang="pt">Matérias sobre o mundo do BJJ com a repórter Luciana Franchini(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180413195500 -0300" stop="20180414013000 -0300" channel="UFC">
+    <title lang="pt">Brave 11</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
 </tv>
