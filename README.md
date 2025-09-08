@@ -1,6 +1,9 @@
 # Cinema Booking System
 PHP-based Cinema Booking System with XAMPP database. Supports user authentication, movie bookings, profile setup, and admin management.  
 
+![Homepage Screenshot](home page.png)
+
+
 > ⚠️ Note: This is my **first project ever**, so things are not perfect—but it’s a fully functioning, dynamic program, well-suited for beginners who want to learn.
 
 ## Features
@@ -36,4 +39,3 @@ PHP-based Cinema Booking System with XAMPP database. Supports user authenticatio
 If you face any difficulty or have questions, feel free to reach out:  
 **Email:** thonedra.dev@gmail.com
 
-> Note: Recommended for beginners to explore and learn from.
