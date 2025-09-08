@@ -1,0 +1,117 @@
+        /* General Reset */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Arial', sans-serif;
+        }
+
+        body {
+            background: linear-gradient(135deg, #0F3460, #1A1A2E, #5A00D8);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            overflow: hidden;
+            color: #fff;
+        }
+
+        .container {
+            background: rgba(15, 52, 96, 0.85);
+            padding: 40px;
+            border-radius: 15px;
+            box-shadow: 0 15px 35px rgba(0, 0, 0, 0.4);
+            width: 100%;
+            max-width: 450px;
+            text-align: center;
+            backdrop-filter: blur(10px);
+            animation: fadeIn 1s ease-in-out;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(-20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 20px;
+            color: #FFD700;
+            text-shadow: 0 4px 8px rgba(0, 0, 0, 0.6);
+            letter-spacing: 2px;
+        }
+
+        h2 {
+            font-size: 1.2rem;
+            color: #D8BFD8;
+            margin-bottom: 20px;
+        }
+
+        p {
+            font-size: 1rem;
+            color: #D8BFD8;
+            margin-bottom: 20px;
+            transition: all 0.5s ease;
+        }
+
+        form {
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+        }
+
+        input, select {
+            padding: 12px;
+            border: 2px solid #5A00D8;
+            border-radius: 8px;
+            font-size: 1rem;
+            background: rgba(255, 255, 255, 0.2);
+            color: #fff;
+            outline: none;
+            transition: all 0.3s ease;
+        }
+
+        select option {
+    background-color: #1A1A2E; /* dark background to match theme */
+    color: #FFD700; /* golden text for contrast */
+}
+
+
+        input:focus, select:focus {
+            border-color: #FFD700;
+            background: rgba(255, 255, 255, 0.3);
+            box-shadow: 0 0 10px #FFD700;
+        }
+
+        button {
+            padding: 12px;
+            background: linear-gradient(90deg, #8A2BE2, #7F00FF);
+            border: none;
+            color: #fff;
+            font-size: 1.2rem;
+            border-radius: 8px;
+            cursor: pointer;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.4);
+            transition: all 0.3s ease;
+        }
+
+        button:hover {
+            background: #FFD700;
+            color: #333;
+            transform: translateY(-5px);
+            box-shadow: 0 10px 25px rgba(255, 215, 0, 0.5);
+        }
+
+        .redirect-btn a {
+            display: inline-block;
+            margin-top: 20px;
+            color: #FFD700;
+            font-size: 1rem;
+            text-decoration: none;
+            transition: color 0.3s ease;
+        }
+
+        .redirect-btn a:hover {
+            color: #FF6F61;
+        }
+ 

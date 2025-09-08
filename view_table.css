@@ -1,0 +1,126 @@
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Arial', sans-serif;
+        }
+
+        body {
+            background: linear-gradient(135deg, #1A1A2E, #0F3460, #5A00D8);
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+
+        /* Back Button */
+        .back-arrow {
+            position: absolute;
+            top: 20px;
+            left: 20px;
+            font-size: 1rem;
+            color: #FFD700;
+            background: none;
+            border: 2px solid #FFD700;
+            padding: 10px 20px;
+            border-radius: 10px;
+            cursor: pointer;
+            text-decoration: none;
+            font-weight: bold;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.3s ease-in-out;
+        }
+
+        .back-arrow:hover {
+            background: #FFD700;
+            color: #1A1A2E;
+        }
+
+        h1 {
+            color: #FFD700;
+            text-shadow: 0px 0px 10px #FFD700;
+            margin-bottom: 15px;
+            display: inline-block;
+        }
+
+        .toggle-symbol {
+            font-size: 2rem;
+            color: #FFD700;
+            background: none;
+            border: none;
+            cursor: pointer;
+            margin-left: 20px;
+            transition: transform 0.3s ease-in-out;
+        }
+
+        .toggle-symbol:hover {
+            transform: rotate(180deg);
+        }
+
+        .section {
+            display: none;
+        }
+
+        .section.active {
+            display: block;
+            animation: fadeIn 0.5s ease-in-out;
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(-20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .movie-section, .user-section {
+            background: rgba(15, 52, 96, 0.8);
+            padding: 20px;
+            border-radius: 12px;
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+            margin: 30px auto;
+            width: 80%;
+            max-width: 900px;
+        }
+
+        table {
+            width: 100%;
+            margin-top: 15px;
+            border-collapse: collapse;
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 8px;
+            overflow: hidden;
+        }
+
+        th, td {
+            padding: 12px;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+            text-align: center;
+        }
+
+        th {
+            background: linear-gradient(90deg, #8A2BE2, #5A00D8);
+            color: white;
+            text-transform: uppercase;
+            font-weight: bold;
+        }
+
+        td {
+            background: rgba(255, 255, 255, 0.1);
+        }
+
+        tr:hover td {
+            background: rgba(255, 255, 255, 0.3);
+        }
+
+        .no-bookings, .no-users {
+            font-size: 1.2rem;
+            color: #FF6F61;
+            margin-top: 20px;
+        }
+    

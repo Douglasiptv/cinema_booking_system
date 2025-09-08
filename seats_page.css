@@ -1,0 +1,126 @@
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Arial', sans-serif;
+        }
+
+        body {
+            background: linear-gradient(135deg, #0F3460, #1A1A2E, #5A00D8);
+            color: #fff;
+            text-align: center;
+            padding: 20px;
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            color: #FFD700;
+            margin-bottom: 20px;
+            text-shadow: 0 5px 10px rgba(0, 0, 0, 0.5);
+            animation: fadeIn 1s ease-in-out;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(-20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .top-buttons {
+            display: flex;
+            justify-content: center;
+            margin-bottom: 20px;
+            gap: 15px;
+        }
+
+        button {
+            padding: 12px 20px;
+            background: linear-gradient(90deg, #8A2BE2, #5A00D8);
+            border: none;
+            color: #fff;
+            border-radius: 8px;
+            font-size: 1rem;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+        }
+
+        button:hover {
+            background: #FFD700;
+            color: #333;
+            transform: translateY(-3px);
+            box-shadow: 0 10px 20px rgba(255, 215, 0, 0.5);
+        }
+
+        .seats-container {
+            display: grid;
+            grid-template-columns: repeat(5, 60px);
+            gap: 15px;
+            justify-content: center;
+            margin: 30px auto;
+            padding: 20px;
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 12px;
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+            backdrop-filter: blur(5px);
+        }
+
+        .seat {
+            width: 60px;
+            height: 60px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 0.9rem;
+            color: #fff;
+            transition: all 0.3s ease;
+            box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
+        }
+
+        .available {
+            background-color: #4CAF50;
+        }
+
+        .available:hover {
+            background-color: #FFD700;
+            transform: scale(1.1);
+            color: #333;
+        }
+
+        .booked {
+            background-color: #f44336;
+            cursor: not-allowed;
+        }
+
+        .selected {
+            background-color: #FFD700;
+            color: #333;
+            transform: scale(1.1);
+        }
+
+        #bookButton {
+            margin-top: 20px;
+            padding: 12px 30px;
+            background: #7F00FF;
+            color: #fff;
+            font-size: 1.2rem;
+            border: none;
+            border-radius: 8px;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        #bookButton:hover {
+            background: #FFD700;
+            color: #333;
+            transform: translateY(-3px);
+            box-shadow: 0 10px 20px rgba(255, 215, 0, 0.5);
+        }
+
+        #bookButton:disabled {
+            background: #555;
+            cursor: not-allowed;
+        }
+  
