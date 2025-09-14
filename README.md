@@ -1,5 +1,6 @@
 # Cinema Booking System
-PHP-based Cinema Booking System with XAMPP database. Supports user authentication, movie bookings, profile setup, and admin management.  
+Cinema Booking System with features "user authentication, movie bookings, profile setup, and admin management."
+Tech Stack - HTML, CSS, JS, PHP, SQL, XMAPP
 
 ![Homepage Screenshot](homepage.png)
 ![Homepage Screenshot](movies_page.png)
