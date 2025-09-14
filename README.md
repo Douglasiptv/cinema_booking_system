@@ -1,5 +1,5 @@
 # Cinema Booking System
-Cinema Booking System with features "user authentication, movie bookings, profile setup, and admin management."
+A PHP-based web application with **user authentication, dynamic movie booking, profile management, and an admin dashboard**.  
 ## Tech Stack
 - **Frontend:** HTML, CSS, JavaScript  
 - **Backend:** PHP  
@@ -23,7 +23,7 @@ Cinema Booking System with features "user authentication, movie bookings, profil
 
 ---
 
-## Notes for Beginners / Known Limitations
+## Known Limitations
 - In **seat creation** (Admin), the CSS is only designed for **5 columns per row**. You can define more rows and columns in the backend, but on the frontend, each row displays as 5 columns. For example, if you define 10 columns in one row, R1 will display as 2 rows.  
 - Make sure your project folder includes a folder named `uploads/`. Otherwise, the pictures you upload for movie posters or profile pictures will **not be displayed**.  
 ---
