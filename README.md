@@ -3,7 +3,7 @@ Cinema Booking System with features "user authentication, movie bookings, profil
 Tech Stack - HTML, CSS, JS, PHP, SQL, XMAPP
 
 ![Homepage Screenshot](homepage.png)
-![Homepage Screenshot](movies_page.png)
+![movies_page Screenshot](movies_page.png)
 
 ## Features
 - User registration and login
